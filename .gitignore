@@ -1,7 +1,7 @@
 .DS_Store
 client/node_modules/
 server/node_modules/
-server/freefire-9bdc6-firebase-adminsdk-82qrq-72e47d1f4b
+server/freefire-9bdc6-firebase-adminsdk-82qrq-72e47d1f4b.json
 
 /dist/
 npm-debug.log*
