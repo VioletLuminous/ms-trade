@@ -4,3 +4,6 @@
 
 查詢頁面展示
 ![](https://i.imgur.com/bzljKjG.png)
+
+新增
+![](https://i.imgur.com/ZsLmKUn.png)
